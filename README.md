@@ -1,16 +1,39 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="banner.png" alt="Banner" width="100%"/>
 
-<!--
-**irisruip/irisruip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 ¡Hola, soy Irisbel!
 
-Here are some ideas to get you started:
+✨ Desarrolladora apasionada por **frontend**, la **creatividad** y la forma en que el código puede transformarse en arte.  
+Me gusta experimentar con combinaciones entre **tecnología, diseño y lo que me inspira**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías que me gustan
+- 🎨 **Frontend:** HTML, CSS, JavaScript, Flet, Angular  
+- 🐍 **Backend:** Python (aprendiendo día a día)  
+- 🗄️ **Bases de datos:** MySQL  
+- 🛠️ Siempre explorando nuevas herramientas creativas  
+
+---
+
+## 🌱 Actualmente
+- 🔭 Construyendo proyectos que mezclan creatividad con código  
+- 📚 Aprendiendo y mejorando en **frontend y backend**   
+
+---
+
+## 💡 Un poco más sobre mí
+🌸 Me gusta integrar **tecnología con creatividad**  
+🎮 Disfruto aprender jugando con ideas y diseños  
+📹 Estoy empezando a crear proyectos que también conectan con mi canal de YouTube  
+
+---
+
+## 📫 Conecta conmigo
+- 💼 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 🌐 [Portafolio/Blog](#)  
+
+---
+
+✨ _“El código es mi manera de darle forma a lo que imagino.”_
