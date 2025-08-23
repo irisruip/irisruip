@@ -1,40 +1,36 @@
 <!-- Banner -->
-# 👩‍💻 ¡Hola, soy Irisbel!
-<img src="banner 2.png" alt="Banner" width="100%"/>
+
+<h1 align="center">👩‍💻 Hi, I'm Irisbel!</h1>
+<p align="center">
+  <img src="banner 2.png" alt="Banner" width="100%"/>
+</p>
 
 
 
-✨ Desarrolladora apasionada por **frontend**, la **creatividad** y la forma en que el código puede transformarse en arte.  
-Me gusta experimentar con combinaciones entre **tecnología, diseño y lo que me inspira**.  
+✨ Developer passionate about **frontend**, **creativity**, and the way code can turn into art.  
+I love experimenting with combinations of **technology, design, and personal inspiration**.  
 
 ---
 
-## 🚀 Tecnologías que me gustan
+## 🚀 Technologies I enjoy
 - 🎨 **Frontend:** HTML, CSS, JavaScript, Flet, Angular  
-- 🐍 **Backend:** Python (aprendiendo día a día)  
-- 🗄️ **Bases de datos:** MySQL  
-- 🛠️ Siempre explorando nuevas herramientas creativas  
+- 🐍 **Backend:** Python (always learning)  
+- 🗄️ **Databases:** MySQL  
+- 🛠️ Constantly exploring new creative tools  
 
 ---
 
-## 🌱 Actualmente
-- 🔭 Construyendo proyectos que mezclan creatividad con código  
-- 📚 Aprendiendo y mejorando en **frontend y backend**   
+## 🌱 Currently
+- 🔭 Building projects that mix creativity with code  
+- 📚 Learning and improving my **frontend & backend** skills  
 
 ---
 
-## 💡 Un poco más sobre mí
-🌸 Me gusta integrar **tecnología con creatividad**  
-🎮 Disfruto aprender jugando con ideas y diseños  
-📹 Estoy empezando a crear proyectos que también conectan con mi canal de YouTube  
+## 💡 A little more about me
+🌸 I love blending **technology with creativity**  
+🎮 I enjoy learning by playing with ideas and designs  
 
 ---
 
-## 📫 Conecta conmigo
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 🌐 [Portafolio/Blog](#)  
+✨ _“Code is my way of giving shape to what I imagine.”_
 
----
-
-✨ _“El código es mi manera de darle forma a lo que imagino.”_
