@@ -1,7 +1,8 @@
 <!-- Banner -->
-<img src="banner.png" alt="Banner" width="100%"/>
-
 # 👩‍💻 ¡Hola, soy Irisbel!
+<img src="banner 2.png" alt="Banner" width="100%"/>
+
+
 
 ✨ Desarrolladora apasionada por **frontend**, la **creatividad** y la forma en que el código puede transformarse en arte.  
 Me gusta experimentar con combinaciones entre **tecnología, diseño y lo que me inspira**.  
