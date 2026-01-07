@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Irisbel!</h1>
 <p align="center">
-  <img src="banner 2.png" alt="Banner" width="100%"/>
+  <img src="banner 3.png" alt="Banner" width="100%"/>
 </p>
 
 
